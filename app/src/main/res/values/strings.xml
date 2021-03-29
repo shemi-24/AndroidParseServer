@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_amount">Enter The Amount</string>
+    <string name="tip_percentage">25%</string>
+    <string name="tip_value">Tip</string>
+    <string name="total">Total</string>
+    <string name="savings_percent">25%</string>
+    <string name="total_money_saved">Money Saved</string>
+    <string name="this_is_tip_calculator">This is Tip Calculator</string>
+    <string name="this_is_savings_calculator">This is Savings Calculator</string>
+    <string name="enter_your_salary_here">Enter Your Salary Here...</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">oX4awAauTlitwJ5jwdy1XRx7o7KhruuyfHyWlNOc</string>
+    <string name="back4app_client_key">Wc0J7pCqZrUTeGnuwfOImQ2Do6i1crptIQEtsCkV</string>
+    <string name="enter_ur_email">Enter ur email</string>
+    <string name="enter_ur_username">Enter ur username</string>
+    <string name="enter_ur_password">Enter ur password</string>
+    <string name="register">REGISTER</string>
+</resources>
